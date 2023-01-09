@@ -219,7 +219,7 @@
             </intent-filter>
             <meta-data
                 android:name="com.android.settings.category"
-                android:value="com.android.settings.category.ia.wireless" />
+                android:value="com.android.settings.category.ia.privacy" />
             <meta-data
                 android:name="com.android.settings.order"
                 android:value="1" />
